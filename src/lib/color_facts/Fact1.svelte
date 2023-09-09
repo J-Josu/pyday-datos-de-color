@@ -2,29 +2,6 @@
 	import { Code, Slide, Vertical } from '@components'
 	import Color from './Color.svelte'
 	import Layout from './Layout.svelte'
-
-	const termCode = `
-class Term:
-  if platform.system() == 'Windows':
-      os.system('color')
-
-  BLACK = "\\033[30m"
-  R = "\\033[31m"
-  G = "\\033[32m"
-  BG = "\\033[1;32m"
-  Y = "\\033[33m"
-  B = "\\033[34m"
-  M = "\\033[35m"
-  C = "\\033[36m"
-  W = "\\033[37m"
-  ENDC = "\\033[0;0m"
-  NORMAL = "\\033[1m"
-  BOLD = "\\033[1m"
-
-
-def dev_print(*values: object):
-  print(f'{Term.M}[dev]{Term.ENDC}', *values)
-      `
 </script>
 
 <Vertical>
@@ -57,10 +34,10 @@ def dev_print(*values: object):
 		</Layout>
 	</Slide>
 	<Slide>
-		<p>Se puede hacer mejor?</p>
+		<p>se puede hacer mejor?</p>
 	</Slide>
 	<Slide>
-		<p>Si</p>
+		<p>SI</p>
 	</Slide>
 	<Slide>
 		<Code lang="python">

@@ -12,6 +12,7 @@
 	<Slide>
 		<h1 class="text-8xl font-bold">Datos de <Color>COLOR</Color></h1>
 	</Slide>
+
 	<Slide>
 		<h2 class="text-6xl font-bold">Yo soy josue</h2>
 		<div class="flex flex-col my-8 gap-4">
@@ -22,7 +23,10 @@
 				reloading para una aplicacion en flask
 			</p>
 		</div>
-		<p>Comenzamos?</p>
+	</Slide>
+
+	<Slide>
+		<h2 class="text-6xl font-bold">Comenzamos?</h2>
 	</Slide>
 
 	<Fact1 />

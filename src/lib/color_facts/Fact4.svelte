@@ -1,14 +1,14 @@
 <script lang="ts">
 	import { Code, Slide, Vertical } from '@components'
-	import Layout from './Layout.svelte'
 	import Color from './Color.svelte'
+	import Layout from './Layout.svelte'
 </script>
 
 <Vertical>
 	<Slide>
 		<Layout>
 			<h2>Dato de <Color>color 4</Color></h2>
-			<p>un paron aveces ayuda</p>
+			<p>Un paron aveces ayuda</p>
 		</Layout>
 	</Slide>
 	<Slide>
@@ -31,7 +31,7 @@
 	</Slide>
 	<Slide>
 		<Layout>
-			<h2>imagine que los docs dicen</h2>
+			<h2>imagina que encontras en los docs</h2>
 			<p>websockets.broadcast(websockets, message, raise_exceptions=False)</p>
 			<p>Broadcast a message to several WebSocket connections.</p>
 		</Layout>

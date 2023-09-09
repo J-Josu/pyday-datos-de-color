@@ -8,7 +8,7 @@
 	<Slide>
 		<Layout>
 			<h2>Dato de <Color>color 3</Color></h2>
-			<p>lo facil esta bueno, no?, no???</p>
+			<p>Lo facil esta bueno no?, no???</p>
 		</Layout>
 	</Slide>
 	<Slide>
