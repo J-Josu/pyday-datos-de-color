@@ -1,23 +1,5 @@
-# Animotion
+# PyDay La Plata 2023
 
-This is an Animotion presentation.
+Para esta presentacion use [Animotion](https://animotion.pages.dev/)
 
-## Setup
-
-Install dependencies.
-
-```sh
-pnpm i
-```
-
-Run the development server at http://localhost:5173/.
-
-```sh
-pnpm run dev
-```
-
-Build and preview deploy.
-
-```sh
-pnpm run build && pnpm run preview
-```
+Parte del codigo mostrado fue el proceso de desarrollo de [install_dev_mode.py](./install_dev_mode.py)

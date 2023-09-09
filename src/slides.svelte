@@ -64,6 +64,15 @@
 			Gracias por el espacio
 		</h2>
 	</Slide>
+
+	<Slide>
+		<img
+			src="repository-qr.png"
+			alt="codigo qr del repositorio"
+			class="mx-auto"
+		/>
+		<p class="mt-[1em]">Link al repositorio</p>
+	</Slide>
 </Presentation>
 
 <style lang="postcss">
